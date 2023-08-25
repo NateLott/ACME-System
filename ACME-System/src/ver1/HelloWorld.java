@@ -13,7 +13,7 @@ public static void heyNow() {
 	}
 
 public static void whatFor() {
-	String msg = "What for?";
-	System.out.println(msg);
+	String MSG = "What for?";
+	System.out.println(MSG);
 }
 }
