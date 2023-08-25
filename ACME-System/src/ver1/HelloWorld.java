@@ -10,5 +10,10 @@ System.out.println("Nate is working locally on his branch");
 public static void heyNow() {
 	String Msg = "Hey Now!:";
 	System.out.println(Msg);
+	}
+
+public static void whatFor() {
+	String MSG = "What for?";
+	System.out.println(MSG);
 }
 }
